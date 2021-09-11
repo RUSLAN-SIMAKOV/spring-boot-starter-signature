@@ -5,6 +5,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>signature-starter</module>
+        <module>sample-service</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>

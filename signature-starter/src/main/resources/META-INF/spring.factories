@@ -1,0 +1,1 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=ruslan.simakov.signature.starter.autoconfigure.SignatureAutoConfiguration
