@@ -1,0 +1,8 @@
+{
+  "properties": [{
+    "name": "signature.enable",
+    "type": "java.lang.Boolean",
+    "defaultValue": true,
+    "description": "Whether signature autoconfiguration should be enabled or not"
+  }]
+}
