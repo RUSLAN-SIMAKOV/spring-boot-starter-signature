@@ -19,7 +19,7 @@
     <name>spring-boot-starter-signature</name>
     <description>spring-boot-starter-signature</description>
     <properties>
-        <java.version>11</java.version>
+        <java.version>17</java.version>
     </properties>
 
 </project>
